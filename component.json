@@ -1,0 +1,22 @@
+{
+  "name": "fx",
+  "repo": "esundahl/fx",
+  "description": "dom fx utilities show, hide, toggle, slideUp, slideDown, slideToggle",
+  "version": "0.0.1",
+  "keywords": [
+    "dom",
+    "html",
+    "ui",
+    "show",
+    "hide:",
+    "toggle",
+    "slideUp",
+    "slideDown"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
