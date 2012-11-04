@@ -10,31 +10,10 @@
 
 ### Fx(el)
 
-  The `Fx` may also be used as a mixin. For example
-  a "plain" object may be imbued with Fx, or you may
-  extend an existing prototype.
-
-  As an `Fx` instance:
 
 ```js
 var Fx = require('fx');
 Fx(el).toggle(500, callback);
-```
-
-	As a mixin:
-
-```js
-var Fx = require('fx');
-var el = document.createElement('div');
-Fx.imbue(el);
-el.toggle();
-```
-
-	As a prototype mixin:
-
-```js
-var Fx = require('fx');
-Fx.imbue(El.prototype);
 ```
 
 ## API
